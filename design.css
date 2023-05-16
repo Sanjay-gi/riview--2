@@ -1,0 +1,36 @@
+
+    <style>
+        *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(198, 50, 50);
+    color: rgb(238, 134, 7);
+}
+.container{
+    max-width: 50rem;
+    margin: 2rem auto; 
+    border: 2px solid gray;  
+}
+.mh{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
+}
+.formcon{
+    display: flex;
+    flex-direction: column;
+}
+.fihead{
+    font-size: 20px;
+}
+.feino{
+    font-size: 18px;
+    text-indent: 2px;
+    border: none;
+    outline:1px solid ;
+    border-radius: 5px;
+    width: 100%;  
+}
+    </style>
